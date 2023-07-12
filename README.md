@@ -26,6 +26,7 @@ To set up and run the Task Management app on your local machine, please follow t
 
 11.The JSON server will be available at "http://localhost:3001/tasks".
 
+
 ![Task ss-1](https://github.com/ShreyaChandurkar/TaskManagementApp/assets/132133982/962e5e5c-f6fa-477d-931a-f5bd0c376c2f)
 
 ![Task ss-2](https://github.com/ShreyaChandurkar/TaskManagementApp/assets/132133982/a4fd3b7d-eb29-4c90-9265-74af0a765af1)
