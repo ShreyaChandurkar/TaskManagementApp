@@ -1,0 +1,21 @@
+{
+  "tasks": [
+    {
+      "id": "792e28a0-e86d-45bc-92a1-4d946a790772",
+      "text": "Hello there!! This is our first demo task.",
+      "desc": "frst one"
+    },
+    {
+      "id": "9c4f709e-b1e4-4f0b-8096-a0d88f2f229e",
+      "text": "Learning Next.js and Typescript"
+    },
+    {
+      "id": "5030833d-b322-4064-bb5b-9316caa97d3e",
+      "text": "New skill added, i.e. Tailwind css"
+    },
+    {
+      "id": "c751d142-845f-4c96-9f9e-e2394e190490",
+      "text": "Thank You!!"
+    }
+  ]
+}
