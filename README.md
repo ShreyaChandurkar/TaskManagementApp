@@ -25,3 +25,19 @@ To set up and run the Task Management app on your local machine, please follow t
 10.Run the JSON server by executing the command "npm run json-server".
 
 11.The JSON server will be available at "http://localhost:3001/tasks".
+
+![Task ss-1](https://github.com/ShreyaChandurkar/TaskManagementApp/assets/132133982/962e5e5c-f6fa-477d-931a-f5bd0c376c2f)
+
+![Task ss-2](https://github.com/ShreyaChandurkar/TaskManagementApp/assets/132133982/a4fd3b7d-eb29-4c90-9265-74af0a765af1)
+
+![Task ss-3](https://github.com/ShreyaChandurkar/TaskManagementApp/assets/132133982/eef11507-64f3-40d6-b587-dae8a7d1a80b)
+
+![Task ss-4](https://github.com/ShreyaChandurkar/TaskManagementApp/assets/132133982/61c9063d-7e69-4bad-8a24-81184df627d0)
+
+![Task ss-5](https://github.com/ShreyaChandurkar/TaskManagementApp/assets/132133982/f1493711-8416-40fe-9956-796f9a3a3e29)
+
+![Task ss-6](https://github.com/ShreyaChandurkar/TaskManagementApp/assets/132133982/69e871d5-7fe7-494f-a163-f3aa8b9ef8b5)
+
+
+
+
