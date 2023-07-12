@@ -5,6 +5,7 @@ The app implements CRUD (Create, Read, Update, Delete) operations to handle the 
 To set up and run the Task Management app on your local machine, please follow these steps:
 
 1. Download the app's code as a zip file.
+   
 2.Extract the code and place it in a suitable folder location on your computer.
 3.Open a terminal or command prompt window.
 4.Use the "cd" command to navigate to the "task-management" directory in the terminal i.e. "cd task-management".
