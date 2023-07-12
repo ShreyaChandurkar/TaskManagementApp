@@ -1,6 +1,6 @@
 I have developed a Task Management app using Next.js 13, TypeScript, and Tailwind CSS. The app aims to provide an efficient way to manage tasks. When you click on the "Add new task" button, a Tailwind CSS modal will open, allowing you to enter the details of a new task. Each task displayed in the app is accompanied by two icons: an edit icon and a delete icon. If you click on the edit icon, you can modify the task's information. Similarly, clicking on the delete icon will remove the task from the list.
 
-The app implements CRUD (Create, Read, Update, Delete) operations to handle the task management functionalities. This means you can create new tasks, view the existing tasks, edit their details, and delete tasks when needed. To ensure data persistence, the app stores the task information in the local storage of your browser. This way, you can access and manage your tasks even after closing or refreshing the app.
+The app implements CRUD (Create, Read, Update, Delete) operations to handle the task management functionalities. This means you can create new tasks, view the existing tasks, and delete tasks when needed. To ensure data persistence, the app stores the task information in the local storage of your browser. This way, you can access and manage your tasks even after closing or refreshing the app.
 
 To set up and run the Task Management app on your local machine, please follow these steps:
 
